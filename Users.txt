@@ -1,0 +1,4 @@
+Admin	Admin12	A
+Teacher	1234	F
+Mudassir	4321	S
+Ali	45621	S
